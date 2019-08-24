@@ -1,7 +1,18 @@
-# .github
+# Introduction
+[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
+[![license](https://badgen.net/github/license/doocs/.github?color=green)](https://github.com/doocs/.github/blob/master/LICENSE)
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#how-to-join)
+[![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
+
 Default files for [@doocs](https://github.com/doocs) repositories.
 
-Default files are not included in `clones`, `packages`, or `downloads` of individual repositories because they are stored only in the `.github` repository.
+GitHub will use and display default files for any public repository in the [@doocs](https://github.com/doocs) organization that does not have its own file of that type in any of the following places:
+
+- the root of the repository
+- the `.github` folder
+- the `docs` folder
+
+The files are not included in `clones`, `packages`, or `downloads` of individual repositories because they are stored only in the `.github` repository.
 
 Supported file types:
 

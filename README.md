@@ -1,6 +1,6 @@
 # .github
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/.github?color=green)](https://github.com/doocs/.github/blob/master/LICENSE)
+[![license](https://badgen.net/github/license/doocs/.github?color=green)](https://github.com/doocs/.github/blob/main/LICENSE)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://doocs.github.io/#/?id=how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
@@ -30,4 +30,4 @@ The default file types supported by GitHub are as follows:
 However, you cannot create a default license file for your organization. License files must be added to individual repositories so the file will be included when a project is cloned, packaged, or downloaded.
 
 ## License
-<a rel="license" href="https://github.com/doocs/.github/blob/master/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://github.com/doocs/.github/blob/main/LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

@@ -3,7 +3,7 @@
 ![logo](https://avatars.githubusercontent.com/u/43716716?s=200&v=4)
 
 
-### 你好呀，欢迎来到 [Doocs](https://github.com/doocs) 开源社区。我们是一个非常友好的技术社区，专注于分享技术领域相关知识。目前 Doocs 有以下多个热门项目，欢迎 Star ⭐ 关注~
+### 欢迎来到 [Doocs](https://github.com/doocs) ！这是一个非常友好的技术社区，专注于分享技术领域相关知识。目前 Doocs 有以下多个热门项目，欢迎 Star ⭐ 关注~
 
 | # | 项目 | 描述 | 热度 |
 | --- | --- | --- | --- |

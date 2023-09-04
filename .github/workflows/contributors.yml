@@ -1,0 +1,19 @@
+name: gen-org-contributors
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: thinkasany/organize-contributors@master
+        with:
+          orgName: doocs
+          github_token: ${{ secrets.GH_TOKEN }}
+          png_path: profile/images/contributors.png
+          json_path: profile/contributors.json
+          branch: main
+          commit_message: 'chore: update contributors'

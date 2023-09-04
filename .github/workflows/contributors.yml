@@ -12,7 +12,7 @@ jobs:
       - uses: thinkasany/organize-contributors@master
         with:
           orgName: doocs
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.ACTION_TOKEN }}
           png_path: profile/images/contributors.png
           json_path: profile/contributors.json
           branch: main

@@ -11,9 +11,10 @@ jobs:
     steps:
       - uses: thinkasany/organize-contributors@master
         with:
-          orgName: doocs
+          organize_name: doocs
           github_token: ${{ secrets.ACTION_TOKEN }}
           png_path: profile/images/contributors.png
           json_path: profile/contributors.json
           branch: main
           commit_message: 'chore: update contributors'
+          excludes_list: "ImgBotApp, github-actions[bot]"

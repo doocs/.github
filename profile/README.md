@@ -37,4 +37,4 @@ Doocs 期待你的加入。
 
 感谢以下所有为 Doocs 开源社区做出贡献的开发者朋友们。
 
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
+<a href="https://raw.githubusercontent.com/doocs/.github/main/profile/images/contributors.png"><img src="https://raw.githubusercontent.com/doocs/.github/main/profile/images/contributors.png" /></a>

@@ -13,8 +13,8 @@ jobs:
         with:
           organize_name: doocs
           github_token: ${{ secrets.ACTION_TOKEN }}
-          png_path: profile/images/contributors.png
-          json_path: profile/contributors.json
+          png_path: images/contributors.png
+          json_path: contributors.json
           branch: main
-          commit_message: 'chore: update contributors'
-          excludes_list: "ImgBotApp, github-actions[bot]"
+          commit_message: "chore: update contributors"
+          excludes_list: "ImgBotApp, github-actions[bot], actions-user"

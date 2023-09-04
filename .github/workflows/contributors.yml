@@ -17,4 +17,4 @@ jobs:
           json_path: contributors.json
           branch: main
           commit_message: "chore: update contributors"
-          excludes_list: "ImgBotApp, github-actions[bot], actions-user"
+          excludes_list: "ImgBotApp,github-actions[bot],actions-user,imgbot[bot]"

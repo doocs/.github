@@ -29,7 +29,7 @@
 
 你可以 fork 任何一个感兴趣的项目到你的个人 GitHub 帐户下，对项目作出修改后，提交你的 PR。Doocs 维护者会对你的提交内容进行 review。或许你最初的提交并不规范，这也没关系，多尝试提交，你会逐渐熟悉 GitHub 的各种交互操作，并且形成规范。当你的提交一直很符合项目的规范性，Doocs 维护者会将你添加到对应项目的 Collaborators 列表中，共同维护好项目。
 
-如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)。
+如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md)。
 
 Doocs 期待你的加入。
 
